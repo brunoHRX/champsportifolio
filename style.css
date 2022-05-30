@@ -210,3 +210,28 @@ nav .title {
   font: 700 1rem var(--body-font);
   color: var(--title-color);
 }
+
+/* SKILLS */
+
+.skills {
+  display: flex;
+}
+
+.container h2 {
+  transform: rotate(270deg);
+}
+
+.progressPainelOne {
+  flex-direction: column;
+}
+
+.progressBar {
+  height: 0.6rem  ;
+  background-color: #CCC;
+  position: relative;
+  border-radius: 4rem;
+  margin-bottom: 2rem;
+}
+
+
+
