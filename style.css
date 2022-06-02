@@ -109,7 +109,6 @@ nav {
   top: 0;
   left: 0;
   background: var(--light-color);
-  color: var(--light-color);
 }
 
 nav .title {
